@@ -1,0 +1,23 @@
+79 points
+
+Nicole,
+
+- Good job in creating your accounts!
+
+- Good job in setting up your java compiler in your system.
+
+- Good job with your first GitHub submission!
+
+- Good organization of your repository! :)
+
+However,
+
+- You were asked to name your .pdf file hw0lastname.pdf where "lastname" is
+  your last name, but you did not follow instructions.
+
+- Please be careful in following instructions in the future.
+
+
+Peace,
+
+- Dr. Pablo Rivas
