@@ -1,5 +1,7 @@
+// == missing header
 import java.util.Scanner;
 public class prob2 {
+  // == tabs!
 	public static void main(String[] Strings) {
 		Scanner input = new Scanner(System.in);
 		System.out.print("Enter a degree in Celsius: ");

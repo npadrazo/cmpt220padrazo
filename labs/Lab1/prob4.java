@@ -1,5 +1,7 @@
+// == missing header
 import java.util.Scanner;
 public class prob4 {
+  // == tabs!
 	public static void main(String[] Strings) {
 	Scanner input = new Scanner(System.in);
 	System.out.print("Enter a number between 0 and 1000: ");
