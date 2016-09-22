@@ -1,5 +1,7 @@
+// == missing header
 import java.util.Scanner;
 public class calc {
+  // == you are using tabs!
 	public static void main (String[] Strings) {
 	Scanner input = new Scanner(System.in);
 	double midtermgrade;
