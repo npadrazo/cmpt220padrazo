@@ -1,0 +1,23 @@
+9 pts
+
+Nicole,
+
+About your programs...
+
+Functionality
+
+- The output does not follow instructions given by program. 
+
+- Problem 8.13 does not produces expected output.  -1pt
+
+Please make sure you read the problems well; follow instructions.
+
+
+Style Check
+
+- Programs passed style check!
+
+
+Peace,
+
+- Dr. Rivas
