@@ -1,0 +1,15 @@
+37 pts
+
+The project allows a user to input his or her salary for the year after taxes
+and returns how much money user should save weekly and how much user could have
+thirty years from the day they input the salary.
+
+However, there are some issues...
+Writeup:
+- It does not follow the structure required. Introduction, etc. -1pt
+
+Code:
+- There is incorrect indentation. -1pt
+
+Overall:
+- The project is somewhat easy. You can do better than this. -1pts
